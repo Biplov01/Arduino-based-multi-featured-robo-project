@@ -1,6 +1,5 @@
 /* Obstacle Avoiding Robot Using Ultrasonic Sensor and Arduino NANO
 
- *  Circuit Digest(www.circuitdigest.com)
 
  */
 #include <SFE_BMP180.h>
